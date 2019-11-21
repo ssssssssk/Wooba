@@ -1,0 +1,75 @@
+---
+---
+		  
+@import 'normalize';
+@import 'skeleton';
+@import 'typography';
+@import 'media';
+
+// Need a media query so that iphone =450px, iPad etc.
+
+.scrolling-wrapper {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    .card {
+	flex: 0 0 auto;
+    }
+}
+
+a:link
+{
+    color: #39A25C;
+    text-decoration: none;
+}
+
+a:visited
+{
+    color: #39A25C;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: #f4d942;
+    text-decoration: underline;
+}
+ul
+{
+    list-style: none;
+    padding-left: 0;
+}
+
+.fixed	{
+    position: fixed;
+    bottom: -12px;
+    right: 0;
+    width: 200px;
+
+}
+
+/* img     {
+   height: 100vh;
+   width: 100%;
+   margin:0px;
+   padding:0px;
+   }
+   .fill1 {
+   object-fit: cover
+   }
+
+   .fill2 {
+   object-fit: cover
+   }
+
+   .item {
+   text-align: left;
+   padding-left: 0px;
+   padding-right: 0px;
+   list-style: none;
+   font-family: sans-serif;
+   }*/
+
+@import 'print';
+

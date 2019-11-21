@@ -1,0 +1,8 @@
+future: true
+sass:
+  sass_dir: _sass
+  style: compressed
+collections:
+- pics
+plugins:
+- jekyll-feed

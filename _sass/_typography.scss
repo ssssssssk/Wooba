@@ -1,0 +1,75 @@
+$header-font: 'Helvetica', sans-serif;
+$running-font: 'Times';
+$big-size: 3vmax;
+%font-junk {
+    -webkit-font-smoothing: antialiased;
+    /* This needs to be set or some font faced fonts glook bold on Mac in Chrome/Webkit based browsers. */
+    -moz-osx-font-smoothing: grayscale;
+    /* Fixes font bold issue in Firefox version 25+ on Mac */
+    font-feature-settings: "kern" 1;
+    font-kerning: normal;
+}
+
+html  {
+    // line-height: 1.5;
+    
+    }
+
+.jumbo			{
+    font-family: $header-font;
+    font-size: 15vw;
+    line-height: 20vw;
+    letter-spacing: 2vw;
+    // padding-left: 5vmin 1rem;
+    // padding-right: 5vmin 1rem;
+    text-align: center;
+    color: #39A25C;
+    display: block;
+    font-weight: 700;
+    margin: auto;
+    // width: 50%;
+    @extend %font-junk;
+}
+
+.center			{
+    font-family: $header-font;
+    font-size: 3vw;
+    line-height: 4vw;
+    letter-spacing: .1vmin;
+    // padding-left: 5vmin 1rem;
+    // padding-right: 5vmin 1rem;
+    text-align: center;
+   
+    display: block;
+    font-weight: 700;
+    margin: auto;
+    // width: 50%;
+    @extend %font-junk;
+}
+
+.medium
+{
+    font-family: $header-font;
+    font-size: $big-size;
+    letter-spacing: .1vmin;
+    // word-wrap: break-word;
+    
+    @extend %font-junk;
+}
+
+.content p {
+    font-family: $running-font;
+    font-size: $big-size*0.75;
+    margin-bottom: 0px;
+}
+
+.content h2 {
+    font-family: $header-font;
+    font-size: $big-size;
+    font-weight: 500;
+    display: inline;
+    line-height: $big-size;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    
+}

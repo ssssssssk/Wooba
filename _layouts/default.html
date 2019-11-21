@@ -1,0 +1,70 @@
+{% include header.html %}
+
+<div class="row">
+
+  <div class="three columns">
+    <div class=medium>
+      {{ page.event_type }}:
+    </div>
+  </div>
+  
+  <div class="nine columns">
+    <div class="medium">
+      <a href="{{ post.url }}">
+	{% if page.artist_name == empty %}
+	{% else %}
+	{{ page.artist_name }}
+	{% endif %}
+
+	{% if page.show_title == empty %}
+	{% else %}
+	<em>"{{ page.show_title }}"</em>
+	{% endif %}
+      </a>
+      <br>
+      {% if page.time == empty %}
+      {{ page.start_date }}
+      {% else %}
+      {{ page.start_date }}. {{ page.time }}
+      {% endif %}
+      
+      {% if page.address == empty %}
+      {% else %}
+      <br>
+      <a href="{{ post.map_link }}">
+	{{ page.address }}
+      </a>
+      <br>
+      {% endif %}
+      <div class="no-print">
+	{{ page.hours }}
+	<br>
+      </div>
+    </div>
+    <br>
+    <div class="pics">
+      {% if page.image_folder == empty %}
+      {% else %}
+      {% for file in site.static_files %}
+      {% if file.path contains page.image_folder %}
+      {% if file.extname == ".jpg" %}
+      <div class="">
+	  <img src="{{ file.path }}" width="100%">
+      </div> &nbsp;
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+      {% endif %}
+    </div>
+    {% if page.content == empty %}
+    {% else %}
+    <div class="content">
+      {{ content }}
+    </div>
+    {% endif %}
+  </div>
+
+</div>
+<br>
+
+{% include footer.html %}
