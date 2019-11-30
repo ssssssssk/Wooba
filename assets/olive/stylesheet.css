@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'AntiqueOlive LT BoldCond';
+    src: url('hinted-AntiqueOliveLT-BoldCond.woff2') format('woff2'),
+        url('hinted-AntiqueOliveLT-BoldCond.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AntiqueOlive LT Roman';
+    src: url('hinted-AntiqueOliveLT-Bold.woff2') format('woff2'),
+        url('hinted-AntiqueOliveLT-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AntiqueOlive LT Roman';
+    src: url('hinted-AntiqueOliveLT-Italic.woff2') format('woff2'),
+        url('hinted-AntiqueOliveLT-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AntiqueOlive LT';
+    src: url('hinted-AntiqueOliveLT-Black.woff2') format('woff2'),
+        url('hinted-AntiqueOliveLT-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AntiqueOlive LT Roman';
+    src: url('hinted-AntiqueOliveLT-Roman.woff2') format('woff2'),
+        url('hinted-AntiqueOliveLT-Roman.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AntiqueOlive LT';
+    src: url('hinted-AntiqueOliveLT-Light.woff2') format('woff2'),
+        url('hinted-AntiqueOliveLT-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AntiqueOlive LT Nord';
+    src: url('hinted-AntiqueOliveLT-Nord.woff2') format('woff2'),
+        url('hinted-AntiqueOliveLT-Nord.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AntiqueOlive LT Nord';
+    src: url('hinted-AntiqueOliveLT-NordItalic.woff2') format('woff2'),
+        url('hinted-AntiqueOliveLT-NordItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AntiqueOlive LT Compact';
+    src: url('hinted-AntiqueOliveLT-Compact.woff2') format('woff2'),
+        url('hinted-AntiqueOliveLT-Compact.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
