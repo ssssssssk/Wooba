@@ -13,7 +13,7 @@
   </div>
   <div class="row">
     <div class="offset-by-one ten columns">
-    <a href="{{ post.url }}">
+    <a href="{{ post.url | relative_url }}">
       <div class="artist-font">
 	{% if post.artist_name == empty %}
 	{{ post.show_title }}
