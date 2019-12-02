@@ -11,19 +11,16 @@ hours: "8:30 PM (Doors at 8:00 PM)"
 image_folder: "pics/Mork/"
 title: "Michael Mørkholt - Kredsbevægelsen"
 ---
-##  A generative system of colour controlled audio synthesis and sound sensitive video feedback
-Kredsbevægelsen was developed as a manually operated performative instrument, as a system for playing live with generative, electronic and visual music. It premiered in 2014. Here, the live processed nature of the work is obviously compromised, both by the recording itself and the record as a fixed media. Most likely, all you’ll ever experience of the original work, is what you have right here, now, a recorded demonstration serving as documentation. This release is meant to honour a work that resides elsewhere. 
 
-Kredsbevægelsen is an A/V installation based on a video projection of a feedback generated from a video camera filming it’s own projected output and feeding back the light information of the space in between camera and projection, returning output as input and retransmitting, producing a discontinuance of difference between action and effect.
+Wooba is pleased to present the Central-Time-Zone-Premier of Danish sound and visual artist Michael Mørkholt's *Kredsbevægelsen* -  a set of two abstract films that document his work over the last five years with sound sensitive video and color controlled audio synthesis. Michael Mørkholt's performances use the formal shape of a concert to demonstrate manually operated sculptural installations that expand the focus from sound, performer and instrumentalist towards space, spatial awareness, image and image receiver.
 
-Camera position, angle and zoom are particularly influential parameters that can be played intuitively. Installed in a dim room, the camera compensates for the lack of substantial image and overdrives its input. The feedback loop brings about a complex pulsating visual abstraction, an instantaneously generated graphical score, which is digitally analysed for a somewhat direct, yet meticulously constructed translation from image to sound to image...
+*Kredsbevægelsen* is being presented in co-operation with the National Danish Film Institute's Cinemateket, who are initiating a wave of premieres of the work in each time zone at 8:30 PM, beginning in the Central European Time Zone. 
 
-Frequencies of coloured light are scaled down to audible spectrum and quantised into harmonics. All audio dynamics, variation in amplitude, phase, frequency and further characteristics of sound are informed by the colour values of the image.
+The first film runs 12:21 and the second runs 12:34, there will be a short break between the halves. 
 
-The system computes frame rate measurements of colour values of 16 cells. The value digits of the image are applied to various control parameters of a digital audio synthesizer which instantly translates the visual into music, with colour values acting as envelope generator, controller of filter, intonation, pulse width generator and modulator, pitch, waveform mixer, effect etc. The audio output is fed back into the system to tweak and temper the image.
+<!-- Mineral water will be served.  -->
 
-The fundamental structure of the audio synthesizer is based on a chord. Specific notes are applied to each image cell. An external midi synthesizer is informed with system generated pitch: A linear fade from black to white within one image cell generates an arpeggio spanning over two octaves. This pattern is gated and single notes are let through if the brightness of another cell exceeds a pre-set threshold.
+<!-- For <a href="http://solhorn.dk/kredsbevaegelsen/">more info</a> see Michael's website about the project. [http://solhorn.dk/kredsbevaegelsen/](http://solhorn.dk/kredsbevaegelsen/) -->
 
-Frequency scaling, tonality and quantisation are predetermined factors. Timing, sequencing and dynamics are generative. The tonal material is simple and constant, aiming at a focus on the idea that the output is systematically processed, not on compositional narrative.
-
-<a href="http://solhorn.dk/kredsbevaegelsen/">More Info</a>
+> **Michael Mørkholt** works within formal experimentation and retarded intuitive physics as a framework for a recurring idea of a interdisciplinary synaesthetic output with a direct link between sound and image.
+>Most recent works revolve around generative systems, reduction and abstraction in a directly linked interaction between sound, light, space, technology and magic. He has toured Denmark, Sweden, Norway, Finland, Germany, Holland, Belgium, France, Italy, Poland, Turkey, Egypt, England, USA, Canada and Japan. Performing and exhibiting at such venues as Café Oto (UK), Super Delux (JP), Art Metropole (CA), Kunsthal Charlottenborg (DK), LAM, Muse de Art Contemporain, Art Moderne et Art Brut de Lille Metropole (F), Overgaden (DK), Tate/ Intermedia Art (UK), Roskilde Festival (DK), Rooseum (SE), Museet for Samtidskunst (DK), Tonic/ Bunker (US), Titanik (FI), Delta~Wave, Het Bos (BE). He has composed for and played with Solhorn, År & Dag, MX, ÆMÆX, Jab Mica Och El, Den Nørrejyske Øs Stororkester for Opløst Mønstermusik, Sommersolhvervsorkesteret, Århus Politi-Orkester 

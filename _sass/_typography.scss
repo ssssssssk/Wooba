@@ -1,6 +1,6 @@
-$header-font: 'Helvetica', sans-serif;
-$running-font: 'Times';
-$big-size: 3vmax;
+$header-font: 'AntiqueOlive LT Nord', sans-serif;
+$running-font: 'AntiqueOlive LT Light';
+$big-size: 4vmax;
 %font-junk {
     -webkit-font-smoothing: antialiased;
     /* This needs to be set or some font faced fonts glook bold on Mac in Chrome/Webkit based browsers. */
@@ -23,13 +23,30 @@ html  {
     // padding-left: 5vmin 1rem;
     // padding-right: 5vmin 1rem;
     text-align: center;
-    color: #39A25C;
+    color: #00000;
     display: block;
     font-weight: 700;
     margin: auto;
     // width: 50%;
     @extend %font-junk;
 }
+
+.half_jumbo			{
+    font-family: $header-font;
+    font-size: 5vw;
+    line-height: 6vw;
+    letter-spacing: .5vw;
+    // padding-left: 5vmin 1rem;
+    // padding-right: 5vmin 1rem;
+    text-align: center;
+    color: #00000;
+    display: block;
+    font-weight: 700;
+    margin: -12.5vw;
+    // width: 50%;
+    @extend %font-junk;
+}
+
 
 .center			{
     font-family: $header-font;
@@ -47,29 +64,53 @@ html  {
     @extend %font-junk;
 }
 
-.medium
+
+.artist-font
 {
     font-family: $header-font;
     font-size: $big-size;
     letter-spacing: .1vmin;
     // word-wrap: break-word;
-    
     @extend %font-junk;
 }
 
+.show
+{
+    font-family: "AntiqueOlive LT BoldCond";
+    font-size: $big-size*0.75;
+    letter-spacing: .1vmin;
+    // word-wrap: break-word;
+    
+    @extend %font-junk;
+}
+.info
+{
+    font-family: $running-font;
+    font-size: $big-size*0.50;
+    letter-spacing: .1vmin;
+    // word-wrap: break-word;
+    
+    @extend %font-junk;
+}
 .content p {
     font-family: $running-font;
-    font-size: $big-size*0.75;
+    font-size: $big-size*0.50;
     margin-bottom: 0px;
+  
 }
 
 .content h2 {
-    font-family: $header-font;
-    font-size: $big-size;
-    font-weight: 500;
+    font-family: "AntiqueOlive LT Black";
+    font-size: $big-size*0.75;
+    font-weight: 900;
     display: inline;
     line-height: $big-size;
     margin-bottom: 10%;
     margin-top: 10%;
     
+}
+
+.content blockquote p {
+    font-size: $big-size*0.33;
+    letter-spacing: .1vmin;
 }
