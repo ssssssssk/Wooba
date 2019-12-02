@@ -50,7 +50,7 @@
 
 @font-face {
     font-family: 'AntiqueOlive LT Nord';
-    src: url('{{ site.baseurl }}/assets/fonts/hinted-AntiqueOliveLT-Nord.woff2') format('woff2'),
+    src: url('{{ site.url }}/assets/fonts/hinted-AntiqueOliveLT-Nord.woff2') format('woff2'),
         url('/assets/fonts/hinted-AntiqueOliveLT-Nord.woff') format('woff');
     font-weight: normal;
     font-style: normal;
