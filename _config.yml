@@ -1,4 +1,3 @@
-baseurl: ""
 future: true
 sass:
   sass_dir: _sass
