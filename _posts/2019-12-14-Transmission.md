@@ -12,7 +12,7 @@ image_folder: "pics/Trans/"
 title: "Wooba Presents: The 2015 Honda Fit"
 published: true
 ---
-## Nathan Azdherian, Nicolas G Miller & Lakshmi Luthra, Lisa Radon and Ellen Schafer
+## Nathan&nbsp;Azdherian, Nicolas&nbsp;G.&nbsp;Miller&nbsp;& Lakshmi&nbsp;Luthra, Lisa&nbsp;Radon&nbsp;and Ellen&nbsp;Schafer
 
 Wooba is overjoyed to present a group show inside Merideth Hillbrand's 2015 Honda Fit as part of [Partial Shade](https://partialshade.info/) and [CoLab](https://www.co-labprojects.org/)'s [*Transmission*](https://www.co-labprojects.org/programs-calendar/2019/12/14/transmission) exhibition. 
 
