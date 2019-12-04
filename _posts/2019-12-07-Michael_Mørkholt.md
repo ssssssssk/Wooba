@@ -14,7 +14,7 @@ title: "Michael Mørkholt - Kredsbevægelsen"
 
 Wooba is pleased to present the Central-Time-Zone-Premier of Danish sound and visual artist Michael Mørkholt's *Kredsbevægelsen* -  a set of two abstract films that document his work over the last five years with sound sensitive video and color controlled audio synthesis. Michael Mørkholt's performances use the formal shape of a concert to demonstrate manually operated sculptural installations that expand the focus from sound, performer and instrumentalist towards space, spatial awareness, image and image receiver.
 
-*Kredsbevægelsen* is being presented in co-operation with the National Danish Film Institute's Cinemateket, who are initiating a wave of premieres of the work in each time zone at 8:30 PM, beginning in the Central European Time Zone. 
+*Kredsbevægelsen* is being presented in co-operation with the National Danish Film Institute's Cinemateket, who are initiating a wave of premieres of the work starting in the Central European Time Zone at 8:30 PM.
 
 The first film runs 12:21 and the second runs 12:34, there will be a short break between the halves. 
 
