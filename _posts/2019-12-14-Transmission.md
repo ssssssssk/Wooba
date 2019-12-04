@@ -14,7 +14,7 @@ published: true
 ---
 ## Nathan Azdherian, Nicolas G Miller & Lakshmi Luthra, Lisa Radon and Ellen Schafer
 
-Wooba is overjoyed to present a group show inside Merideth Hillbrand's 2015 Honda Fit as part of [Partial Shade](https://partialshade.info/) and [CoLab](https://www.co-labprojects.org/))'s [*Transmission*](https://www.co-labprojects.org/programs-calendar/2019/12/14/transmission) exhibition. 
+Wooba is overjoyed to present a group show inside Merideth Hillbrand's 2015 Honda Fit as part of [Partial Shade](https://partialshade.info/) and [CoLab](https://www.co-labprojects.org/)'s [*Transmission*](https://www.co-labprojects.org/programs-calendar/2019/12/14/transmission) exhibition. 
 
 The interior of a compact car is totally unlike most of our other interiors. Whereas the insides of houses, schools and other buildings represent a conjunction between the economy, construction goods sold in sheets and our presumed, imagined or actual needs; the automobile interior has developed along entirely different material, economic and technical bases. No where else are we enclosed in rounded pods with ovular cut-outs for drinks, arms, torsos, etc. to fit. There is hardly a straight line anywhere in a modern compact car. The exterior has been shaped by the erosion of simulated wind. Like a loose tongue feeling along the mandibles for missing teeth each interior member of the car has been molded by simulated human bodies thrashing about in endless virtual calamaties. 
 
