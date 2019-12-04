@@ -10,7 +10,7 @@ event_type: "Exhibition"
 hours: "3:00 PM - 8:00 PM"
 image_folder: "pics/Trans/"
 title: "Wooba Presents: The 2015 Honda Fit"
-published: false
+published: true
 ---
 ## Nathan Azdherian, Nicolas G Miller & Lakshmi Luthra, Lisa Radon and Ellen Schafer
 
