@@ -58,15 +58,19 @@
       <div class="pics">
 	{% if page.image_folder == empty %}
 	{% else %}
+	<div class="siema">
 	{% for file in site.static_files %}
 	{% if file.path contains page.image_folder %}
 	{% if file.extname == ".jpg" %}
-	<div class="">
-	  <img src="{{ file.path | relative_url }}" width="100%">
-	</div> &nbsp;
-	{% endif %}
-	{% endif %}
-	{% endfor %}
+	  <div class="">
+	    <img src="{{ file.path | relative_url }}" >
+	  </div> &nbsp;
+	  {% endif %}
+	  {% endif %}
+	  {% endfor %}
+	  
+	</div>
+	<!-- <p>The current slide imdex is: <span class="js-index"></span></p> -->
 	{% endif %}
       </div>
       {% if page.content == empty %}
@@ -77,6 +81,26 @@
       {% endif %}
     </div>
   </div>
-</div>
+ </div>
+ <script src="/assets/js/siema.min.js"></script>
+ <script>
+  new Siema({
+    loop: true,
+  });
+ </script>
+ <!-- <script>
+      // Siema doesn't come with pagination built in
+      // But it is very easy to add one if you want
 
+      // New siema instance
+      /* function printSlideIndex() {
+      *   document.querySelector('.js-index').innerHTML = this.currentSlide
+      * }
+
+      * const mySiema = new Siema({
+      *   onInit: printSlideIndex,
+      *   onChange: printSlideIndex,
+      *   loop: true,
+      * }); */
+      </script> -->
 {% include footer.html %}

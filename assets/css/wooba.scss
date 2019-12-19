@@ -5,6 +5,7 @@
 @import 'skeleton';
 @import 'typography';
 @import 'media';
+// @import 'flexbox'
 
 // Need a media query so that iphone =450px, iPad etc.
 
@@ -70,6 +71,12 @@ ul
    list-style: none;
    font-family: sans-serif;
    }*/
+
+img {
+    // height: 80%;
+    max-height: 80%;
+    max-width: 100%;
+}
 
 @import 'print';
 
