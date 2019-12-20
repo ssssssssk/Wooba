@@ -31,21 +31,21 @@ html  {
     @extend %font-junk;
 }
 
-.half_jumbo			{
-    font-family: $header-font;
-    font-size: 5vw;
-    line-height: 6vw;
-    letter-spacing: .5vw;
-    // padding-left: 5vmin 1rem;
-    // padding-right: 5vmin 1rem;
-    text-align: center;
-    color: #000000;
-    display: block;
-    font-weight: 700;
-    margin: -12.5vw;
-    // width: 50%;
-    @extend %font-junk;
-}
+// .half_jumbo			{
+//     font-family: $header-font;
+//     font-size: 5vw;
+//     line-height: 6vw;
+//     letter-spacing: .5vw;
+//     // padding-left: 5vmin 1rem;
+//     // padding-right: 5vmin 1rem;
+//     text-align: center;
+//     color: #000000;
+//     display: block;
+//     font-weight: 700;
+//     margin: -12.5vw;
+//     // width: 50%;
+//     @extend %font-junk;
+// }
 
 
 .center			{
@@ -88,6 +88,7 @@ html  {
     font-family: $running-font;
     font-size: $big-size*0.50;
     letter-spacing: .1vmin;
+    padding-bottom: 0px;
     // word-wrap: break-word;
     
     @extend %font-junk;
@@ -113,4 +114,5 @@ html  {
 .content blockquote p {
     font-size: $big-size*0.33;
     letter-spacing: .1vmin;
+    padding-bottom: 0px;
 }
