@@ -63,7 +63,7 @@
 	{% if file.path contains page.image_folder %}
 	{% if file.extname == ".jpg" %}
 	  <div class="">
-	    <img src="{{ file.path | relative_url }}" >
+	    <img src="{{ file.path | relative_url }}">
 	  </div> &nbsp;
 	  {% endif %}
 	  {% endif %}
@@ -86,6 +86,7 @@
  <script>
   new Siema({
     loop: true,
+    perPage: 1
   });
   // From https://pawelgrzybek.github.io/siema/
  </script>
